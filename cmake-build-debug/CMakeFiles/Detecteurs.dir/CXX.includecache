@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/EPSI/cours/B2/C++/Detecteurs/include/Action.h
+
+D:/EPSI/cours/B2/C++/Detecteurs/include/Batiment.h
+map
+-
+Detecteur.h
+D:/EPSI/cours/B2/C++/Detecteurs/include/Detecteur.h
+
+D:/EPSI/cours/B2/C++/Detecteurs/include/CreerZoneAction.h
+Action.h
+D:/EPSI/cours/B2/C++/Detecteurs/include/Action.h
+Batiment.h
+D:/EPSI/cours/B2/C++/Detecteurs/include/Batiment.h
+
+D:/EPSI/cours/B2/C++/Detecteurs/include/Detecteur.h
+
+D:/EPSI/cours/B2/C++/Detecteurs/src/CreerZoneAction.cpp
+../include/CreerZoneAction.h
+D:/EPSI/cours/B2/C++/Detecteurs/include/CreerZoneAction.h
+iostream
+-
+
